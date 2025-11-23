@@ -33,3 +33,4 @@
 ||ads.pinterest.com^
 ||analytics.pinterest.com^
 ||click.googleanalytics.com^
+||*.googleanalytics.com
