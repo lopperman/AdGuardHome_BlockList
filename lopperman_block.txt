@@ -14,3 +14,4 @@
 0.0.0.0 ads.yahoo.com
 0.0.0.0 udcm.yahoo.com
 ||ads.yahoo.com^
+||appmetrica.yandex.ru^
