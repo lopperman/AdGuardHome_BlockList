@@ -32,3 +32,4 @@
 ||ads-api.twitter.com^
 ||ads.pinterest.com^
 ||analytics.pinterest.com^
+||click.googleanalytics.com^
