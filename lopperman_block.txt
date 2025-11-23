@@ -20,3 +20,15 @@
 ||ads-api.tiktok.com^
 ||business-api.tiktok.com^
 ||ads.tiktok.com^
+||afs.googlesyndication.com^
+||static.media.net^
+||media.net^
+||notify.bugsnag.com^
+||sessions.bugsnag.com^
+||api.bugsnag.com^
+||app.bugsnag.com^
+||browser.sentry-cdn.com^
+||app.getsentry.com^
+||ads-api.twitter.com^
+||ads.pinterest.com^
+||analytics.pinterest.com^
