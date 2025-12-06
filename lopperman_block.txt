@@ -6,13 +6,13 @@
 # -------------------------------------[INFO]---------------------------------------
 # Block list
 # ------------------------------------[FILTERS]-------------------------------------
-||ads-sg.tiktok.com
+||ads-sg.tiktok.com^
 ||partnerads.ysm.yahoo.com^
-||log.fc.yahoo.com
-||gemini.yahoo.com
-||adtech.yahooinc.com
-||ads.yahoo.com
-||udcm.yahoo.com
+||log.fc.yahoo.com^
+||gemini.yahoo.com^
+||adtech.yahooinc.com^
+||ads.yahoo.com^
+||udcm.yahoo.com^
 ||ads.yahoo.com^
 ||appmetrica.yandex.ru^
 ||metrika.yandex.ru^
@@ -33,4 +33,6 @@
 ||ads.pinterest.com^
 ||analytics.pinterest.com^
 ||click.googleanalytics.com^
-||*.googleanalytics.com
+||*.googleanalytics.com^
+||mobile.events.data.microsoft.com^
+||firebaselogging-pa.googleapis.com^
